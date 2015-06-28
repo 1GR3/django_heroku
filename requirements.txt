@@ -1,0 +1,4 @@
+Django==1.8.1
+gunicorn==19.3.0
+pystache==0.5.4
+static==1.1.1
